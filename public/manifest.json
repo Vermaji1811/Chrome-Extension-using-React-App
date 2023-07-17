@@ -1,0 +1,14 @@
+{
+  "name": "First App",
+  "description": "Open all in one go",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+      "default_title": "First App",
+      "default_popup": "index.html",
+      "default_icon": {
+          "16": "logo-image.png",
+          "128": "logo-image.png"
+      }
+  }
+}

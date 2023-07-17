@@ -1,0 +1,23 @@
+.App {
+  padding: 0px 20px;
+}
+
+.App h3{
+  align-items: center;
+}
+.lists{
+  display: flex;
+  justify-content: space-between;
+}
+
+.button{
+  background-color: pink;
+  border: none;
+  border-radius: 20px;
+  padding: 10px 20px;
+  font-weight: bold;
+}
+
+.button:hover{
+  border: 1px solid black;
+}
